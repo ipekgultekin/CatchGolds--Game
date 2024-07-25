@@ -1,10 +1,10 @@
-# Catch Golds Game 
+# Treasure Hunt
 
-Catch Golds is a strategy board game. In this game, two players compete to gather as much gold as possible while navigating through a valley filled with various resources and hazards. The game is implemented in C++ and demonstrates the application of object-oriented programming principles.
+Treasure Hunt is a strategy board game. In this game, two players compete to gather as much gold as possible while navigating through a valley filled with various resources and hazards. The game is implemented in C++ and demonstrates the application of object-oriented programming principles.
 
 # Game Overview
   
-Catch Golds is played on a square-shaped board of size n×n, where each cell may contain hidden resources. Players take turns to uncover cells, gather resources, and avoid hazards. The game ends when all gold is gathered, both players die, or the maximum number of moves is reached.
+Treasure Hunt is played on a square-shaped board of size n×n, where each cell may contain hidden resources. Players take turns to uncover cells, gather resources, and avoid hazards. The game ends when all gold is gathered, both players die, or the maximum number of moves is reached.
 
 # Features 
   
